@@ -1,0 +1,11 @@
+﻿  Movement.cpp
+C:\Users\mayer\source\repos\Movement\Movement\Movement.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mayer\source\repos\Movement\Movement\Movement.cpp(20,34): warning C4838: Преобразование из "int" в "Uint8" требует сужающего преобразования.
+C:\Users\mayer\source\repos\Movement\Movement\Movement.cpp(20,47): warning C4838: Преобразование из "int" в "Uint8" требует сужающего преобразования.
+C:\Users\mayer\source\repos\Movement\Movement\Movement.cpp(20,61): warning C4838: Преобразование из "int" в "Uint8" требует сужающего преобразования.
+  Создание кода
+  1 of 99 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Movement.vcxproj -> C:\Users\mayer\source\repos\Movement\x64\Release\Movement.exe
